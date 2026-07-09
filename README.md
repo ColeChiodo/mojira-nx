@@ -12,7 +12,7 @@ Combined with [Yomitan](https://github.com/themoeway/yomitan) and [Anki](https:/
 - Automatically performs OCR
 - Works with Yomitan + Anki workflows
 
-![Mojira Switch Client Screenshot](assets/example.png)
+![Mojira Switch Client Screenshot](assets/mojira-nx.jpg)
 
 # Installation
 
@@ -43,7 +43,7 @@ Launch Mojira from the Homebrew Menu.
 
 On first launch, configure your Mojira server address.
 
-![Example of configuring Mojira server address in settings](assets/settings.png)
+![Example of configuring Mojira server address in settings](assets/settings.jpg)
 
 The Switch must be able to reach the machine running Mojira.
 
@@ -105,5 +105,7 @@ Build:
 `make`
 
 Results in building `mojira-nx.nro` and can be copied to `/switch/mojira-nx/`
+
+![Image showing the icon on a switch home screen](assets/homeicon.jpg)
 
 **© [colechiodo.cc](https://colechiodo.cc) | MIT License**
