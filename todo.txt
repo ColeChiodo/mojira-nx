@@ -1,0 +1,12 @@
+x 2026-07-09 2026-07-09 x 2026-07-09 2026-07-09 SDL example on switch +M1
+x 2026-07-09 2026-07-09 import borealis ui library +M2
+x 2026-07-09 2026-07-09 display header and footer +M2
+x 2026-07-09 2026-07-09 display hello world in borealis ui elements +M2
+x 2026-07-09 2026-07-09 display a grid of images using tmp images +M3
+x 2026-07-09 2026-07-09 scan for screenshots on switch sd card +M3
+x 2026-07-09 2026-07-09 display filename of hovered image. display text when clicked +m3
+x 2026-07-09 2026-07-09 server config screen +m4
+x 2026-07-09 2026-07-09 http image upload to server +m4
+(A) moving between gallary and settings results in a blank screen +bug
+(B) make about page in line with styling standards +polish
+(C) touch screen support +wishlist
