@@ -23,7 +23,7 @@ Combined with [Yomitan](https://github.com/themoeway/yomitan) and [Anki](https:/
 - Network connection between the Switch and server
 
 > [!TIP]
-> For setting up the server, see [github.com/colechiodo/mojira](https://github.com/ColeChiodo/mojira)
+> For setting up the server, see [github.com/colechiodo/ocr-miner](https://github.com/ColeChiodo/ocr-miner)
 
 ## Installing the Homebrew Application
 
@@ -43,7 +43,7 @@ Launch Mojira from the Homebrew Menu.
 
 On first launch, configure your Mojira server address.
 
-![Example of configuring Mojira server address in settings](assets/settings.jpg)
+<!--![Example of configuring Mojira server address in settings](assets/settings.jpg)-->
 
 The Switch must be able to reach the machine running Mojira.
 
